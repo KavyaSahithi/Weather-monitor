@@ -2,4 +2,4 @@
 App to get weather data from external API
 
 Live version:
-weather-monitor-app.netlify.app
+https://weather-monitor-app.netlify.app
